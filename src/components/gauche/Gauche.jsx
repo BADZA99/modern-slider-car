@@ -1,7 +1,6 @@
 import React from 'react'
 import { BarresJum, ContCube, Left } from './Gauche.styled';
-import gsap from "gsap";
-import { useEffect } from 'react';
+
 
 
 const Gauche = ({ couleur, titre, couleurTitre, index, Activeindex }) => {
